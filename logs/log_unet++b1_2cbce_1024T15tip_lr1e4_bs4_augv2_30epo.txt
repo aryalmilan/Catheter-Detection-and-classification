@@ -1,0 +1,20 @@
+Fold: 1
+
+
+
+Mon Apr 26 15:17:07 2021 Epoch 1, lr: 0.0001000, train loss: 0.20661, valid loss: 0.04793.
+Mon Apr 26 15:36:28 2021 Epoch 2, lr: 0.0010000, train loss: 0.02453, valid loss: 0.01712.
+Mon Apr 26 15:55:48 2021 Epoch 3, lr: 0.0010000, train loss: 0.01934, valid loss: 0.01604.
+Mon Apr 26 16:15:10 2021 Epoch 4, lr: 0.0009568, train loss: 0.01813, valid loss: 0.01558.
+Mon Apr 26 16:34:31 2021 Epoch 5, lr: 0.0009045, train loss: 0.01707, valid loss: 0.01459.
+Mon Apr 26 16:53:53 2021 Epoch 6, lr: 0.0008346, train loss: 0.01649, valid loss: 0.01459.
+Mon Apr 26 17:13:14 2021 Epoch 7, lr: 0.0007500, train loss: 0.01607, valid loss: 0.01407.
+Mon Apr 26 17:32:36 2021 Epoch 8, lr: 0.0006545, train loss: 0.01549, valid loss: 0.01374.
+Mon Apr 26 17:51:56 2021 Epoch 9, lr: 0.0005523, train loss: 0.01513, valid loss: 0.01356.
+Mon Apr 26 18:11:20 2021 Epoch 10, lr: 0.0004477, train loss: 0.01485, valid loss: 0.01329.
+Mon Apr 26 18:30:44 2021 Epoch 11, lr: 0.0003455, train loss: 0.01444, valid loss: 0.01313.
+Mon Apr 26 18:50:10 2021 Epoch 12, lr: 0.0002500, train loss: 0.01408, valid loss: 0.01300.
+Mon Apr 26 19:09:38 2021 Epoch 13, lr: 0.0001654, train loss: 0.01378, valid loss: 0.01287.
+Mon Apr 26 19:29:04 2021 Epoch 14, lr: 0.0000955, train loss: 0.01368, valid loss: 0.01279.
+Mon Apr 26 19:48:29 2021 Epoch 15, lr: 0.0000432, train loss: 0.01358, valid loss: 0.01274.
+Mon Apr 26 20:07:51 2021 Epoch 16, lr: 0.0000109, train loss: 0.01355, valid loss: 0.01273.
