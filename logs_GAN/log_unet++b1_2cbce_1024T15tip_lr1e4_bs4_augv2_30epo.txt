@@ -1,0 +1,17 @@
+
+Sat May  1 21:10:47 2021 Epoch 1,lrG: 0.0001000, lrD: 0.0001000 trainG loss: 5.20660,trainD loss: 0.07675, valid loss: 0.69413.
+Sat May  1 21:45:28 2021 Epoch 2,lrG: 0.0010000, lrD: 0.0010000 trainG loss: 1.16403,trainD loss: 0.69675, valid loss: 0.69392.
+Sat May  1 22:20:11 2021 Epoch 3,lrG: 0.0010000, lrD: 0.0010000 trainG loss: 4.93119,trainD loss: 0.09861, valid loss: 0.69482.
+Sat May  1 22:54:52 2021 Epoch 4,lrG: 0.0009568, lrD: 0.0009568 trainG loss: 6.16957,trainD loss: 0.08873, valid loss: 0.69389.
+Sat May  1 23:29:33 2021 Epoch 5,lrG: 0.0009045, lrD: 0.0009045 trainG loss: 8.20800,trainD loss: 0.02042, valid loss: 0.69399.
+Sun May  2 00:04:13 2021 Epoch 6,lrG: 0.0008346, lrD: 0.0008346 trainG loss: 9.41964,trainD loss: 0.05112, valid loss: 0.69381.
+Sun May  2 00:38:53 2021 Epoch 7,lrG: 0.0007500, lrD: 0.0007500 trainG loss: 11.43145,trainD loss: 0.00373, valid loss: 0.69349.
+Sun May  2 01:13:32 2021 Epoch 8,lrG: 0.0006545, lrD: 0.0006545 trainG loss: 9.93307,trainD loss: 0.04310, valid loss: 0.69379.
+Sun May  2 01:48:12 2021 Epoch 9,lrG: 0.0005523, lrD: 0.0005523 trainG loss: 11.52458,trainD loss: 0.00380, valid loss: 0.69381.
+Sun May  2 02:22:52 2021 Epoch 10,lrG: 0.0004477, lrD: 0.0004477 trainG loss: 10.68612,trainD loss: 0.05164, valid loss: 0.69348.
+Sun May  2 02:57:31 2021 Epoch 11,lrG: 0.0003455, lrD: 0.0003455 trainG loss: 9.80526,trainD loss: 0.01756, valid loss: 0.69336.
+Sun May  2 03:32:10 2021 Epoch 12,lrG: 0.0002500, lrD: 0.0002500 trainG loss: 10.57541,trainD loss: 0.00789, valid loss: 0.69325.
+Sun May  2 04:06:51 2021 Epoch 13,lrG: 0.0001654, lrD: 0.0001654 trainG loss: 11.31973,trainD loss: 0.00403, valid loss: 0.69341.
+Sun May  2 04:41:32 2021 Epoch 14,lrG: 0.0000955, lrD: 0.0000955 trainG loss: 11.05440,trainD loss: 0.00571, valid loss: 0.69321.
+Sun May  2 05:16:13 2021 Epoch 15,lrG: 0.0000432, lrD: 0.0000432 trainG loss: 11.50788,trainD loss: 0.00071, valid loss: 0.69309.
+Sun May  2 05:50:53 2021 Epoch 16,lrG: 0.0000109, lrD: 0.0000109 trainG loss: 11.69139,trainD loss: 0.00049, valid loss: 0.69303.
