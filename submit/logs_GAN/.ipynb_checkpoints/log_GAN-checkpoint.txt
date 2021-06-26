@@ -1,0 +1,5 @@
+
+
+
+
+Fri Jun 25 15:42:55 2021 Epoch 1,lrG: 0.0001000, lrD: 0.0001000 trainG loss: 3.21150,trainD loss: 0.02743, valid loss: 0.03395.

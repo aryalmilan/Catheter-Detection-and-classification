@@ -1,0 +1,52 @@
+
+
+
+
+Fri Jun 25 15:42:55 2021 Epoch 1,lrG: 0.0001000, lrD: 0.0001000 trainG loss: 3.21150,trainD loss: 0.02743, valid loss: 0.03395.
+Fri Jun 25 16:33:36 2021 Epoch 2,lrG: 0.0010000, lrD: 0.0010000 trainG loss: 5.03356,trainD loss: 0.00008, valid loss: 0.02568.
+Fri Jun 25 17:24:32 2021 Epoch 3,lrG: 0.0010000, lrD: 0.0010000 trainG loss: 5.78196,trainD loss: 0.00001, valid loss: 0.03113.
+
+
+
+
+
+Fri Jun 25 17:46:36 2021 Epoch 1,lrG: 0.0001000, lrD: 0.0001000 trainG loss: 3.44533,trainD loss: 0.03085, valid loss: 0.05463.
+Fri Jun 25 17:57:25 2021 Epoch 2,lrG: 0.0010000, lrD: 0.0010000 trainG loss: 4.06897,trainD loss: 0.02087, valid loss: 0.03238.
+Fri Jun 25 18:08:11 2021 Epoch 3,lrG: 0.0010000, lrD: 0.0010000 trainG loss: 4.72572,trainD loss: 0.00014, valid loss: 0.02775.
+Fri Jun 25 18:18:56 2021 Epoch 4,lrG: 0.0009843, lrD: 0.0009843 trainG loss: 5.16517,trainD loss: 0.00006, valid loss: 0.02529.
+Fri Jun 25 18:29:42 2021 Epoch 5,lrG: 0.0009649, lrD: 0.0009649 trainG loss: 5.47141,trainD loss: 0.00003, valid loss: 0.02450.
+Fri Jun 25 18:40:27 2021 Epoch 6,lrG: 0.0009382, lrD: 0.0009382 trainG loss: 5.76108,trainD loss: 0.00002, valid loss: 0.02347.
+Fri Jun 25 18:51:13 2021 Epoch 7,lrG: 0.0009045, lrD: 0.0009045 trainG loss: 6.05511,trainD loss: 0.00001, valid loss: 0.02377.
+Fri Jun 25 19:01:59 2021 Epoch 8,lrG: 0.0008645, lrD: 0.0008645 trainG loss: 6.29876,trainD loss: 0.00000, valid loss: 0.02229.
+Fri Jun 25 19:12:43 2021 Epoch 9,lrG: 0.0008187, lrD: 0.0008187 trainG loss: 6.51378,trainD loss: 0.00000, valid loss: 0.02152.
+Fri Jun 25 19:23:28 2021 Epoch 10,lrG: 0.0007679, lrD: 0.0007679 trainG loss: 6.73187,trainD loss: 0.00000, valid loss: 0.02193.
+Fri Jun 25 19:34:14 2021 Epoch 11,lrG: 0.0007129, lrD: 0.0007129 trainG loss: 7.02846,trainD loss: 0.00000, valid loss: 0.02095.
+Fri Jun 25 19:44:59 2021 Epoch 12,lrG: 0.0006545, lrD: 0.0006545 trainG loss: 7.22014,trainD loss: 0.00000, valid loss: 0.02049.
+Fri Jun 25 19:55:44 2021 Epoch 13,lrG: 0.0005937, lrD: 0.0005937 trainG loss: 7.38958,trainD loss: 0.00000, valid loss: 0.02008.
+Fri Jun 25 20:06:28 2021 Epoch 14,lrG: 0.0005314, lrD: 0.0005314 trainG loss: 7.59602,trainD loss: 0.00000, valid loss: 0.02005.
+Fri Jun 25 20:17:12 2021 Epoch 15,lrG: 0.0004686, lrD: 0.0004686 trainG loss: 7.78057,trainD loss: 0.00000, valid loss: 0.01973.
+Fri Jun 25 20:27:57 2021 Epoch 16,lrG: 0.0004063, lrD: 0.0004063 trainG loss: 7.95335,trainD loss: 0.00000, valid loss: 0.01942.
+Fri Jun 25 20:38:40 2021 Epoch 17,lrG: 0.0003455, lrD: 0.0003455 trainG loss: 8.12299,trainD loss: 0.00000, valid loss: 0.01912.
+Fri Jun 25 20:49:23 2021 Epoch 18,lrG: 0.0002871, lrD: 0.0002871 trainG loss: 8.29347,trainD loss: 0.00000, valid loss: 0.01897.
+Fri Jun 25 21:00:05 2021 Epoch 19,lrG: 0.0002321, lrD: 0.0002321 trainG loss: 8.43155,trainD loss: 0.00000, valid loss: 0.01875.
+Fri Jun 25 21:10:47 2021 Epoch 20,lrG: 0.0001813, lrD: 0.0001813 trainG loss: 8.58328,trainD loss: 0.00000, valid loss: 0.01878.
+Fri Jun 25 21:21:28 2021 Epoch 21,lrG: 0.0001355, lrD: 0.0001355 trainG loss: 8.73674,trainD loss: 0.00000, valid loss: 0.01867.
+Fri Jun 25 21:32:10 2021 Epoch 22,lrG: 0.0000955, lrD: 0.0000955 trainG loss: 8.84903,trainD loss: 0.00000, valid loss: 0.01859.
+Fri Jun 25 21:42:52 2021 Epoch 23,lrG: 0.0000618, lrD: 0.0000618 trainG loss: 8.95739,trainD loss: 0.00000, valid loss: 0.01850.
+Fri Jun 25 21:53:34 2021 Epoch 24,lrG: 0.0000351, lrD: 0.0000351 trainG loss: 9.02995,trainD loss: 0.00000, valid loss: 0.01847.
+Fri Jun 25 22:04:15 2021 Epoch 25,lrG: 0.0000157, lrD: 0.0000157 trainG loss: 9.08170,trainD loss: 0.00000, valid loss: 0.01845.
+Fri Jun 25 22:14:58 2021 Epoch 26,lrG: 0.0000039, lrD: 0.0000039 trainG loss: 9.10993,trainD loss: 0.00000, valid loss: 0.01840.
+Fri Jun 25 22:33:16 2021 Epoch 27,lrG: 0.0000000, lrD: 0.0000000 trainG loss: 9.11290,trainD loss: 0.00000, valid loss: 0.01845.
+Fri Jun 25 22:43:57 2021 Epoch 28,lrG: 0.0000039, lrD: 0.0000039 trainG loss: 9.12751,trainD loss: 0.00000, valid loss: 0.01844.
+Fri Jun 25 22:54:39 2021 Epoch 29,lrG: 0.0000157, lrD: 0.0000157 trainG loss: 9.21699,trainD loss: 0.00000, valid loss: 0.01844.
+Fri Jun 25 23:05:20 2021 Epoch 30,lrG: 0.0000351, lrD: 0.0000351 trainG loss: 9.43438,trainD loss: 0.00000, valid loss: 0.01839.
+Fri Jun 25 23:16:02 2021 Epoch 31,lrG: 0.0000618, lrD: 0.0000618 trainG loss: 9.75793,trainD loss: 0.00000, valid loss: 0.01847.
+Fri Jun 25 23:26:45 2021 Epoch 32,lrG: 0.0000955, lrD: 0.0000955 trainG loss: 10.14233,trainD loss: 0.00000, valid loss: 0.01851.
+Fri Jun 25 23:37:28 2021 Epoch 33,lrG: 0.0001355, lrD: 0.0001355 trainG loss: 10.46431,trainD loss: 0.00000, valid loss: 0.01871.
+Fri Jun 25 23:48:10 2021 Epoch 34,lrG: 0.0001813, lrD: 0.0001813 trainG loss: 10.77432,trainD loss: 0.00000, valid loss: 0.01861.
+Fri Jun 25 23:58:52 2021 Epoch 35,lrG: 0.0002321, lrD: 0.0002321 trainG loss: 10.96031,trainD loss: 0.00000, valid loss: 0.01870.
+Sat Jun 26 00:09:33 2021 Epoch 36,lrG: 0.0002871, lrD: 0.0002871 trainG loss: 11.23828,trainD loss: 0.00000, valid loss: 0.01888.
+Sat Jun 26 00:20:15 2021 Epoch 37,lrG: 0.0003455, lrD: 0.0003455 trainG loss: 11.45738,trainD loss: 0.00000, valid loss: 0.01871.
+Sat Jun 26 00:30:56 2021 Epoch 38,lrG: 0.0004063, lrD: 0.0004063 trainG loss: 11.64865,trainD loss: 0.00000, valid loss: 0.01889.
+Sat Jun 26 00:41:38 2021 Epoch 39,lrG: 0.0004686, lrD: 0.0004686 trainG loss: 11.81351,trainD loss: 0.00000, valid loss: 0.01917.
+Sat Jun 26 00:52:20 2021 Epoch 40,lrG: 0.0005314, lrD: 0.0005314 trainG loss: 11.92286,trainD loss: 0.00000, valid loss: 0.01882.
